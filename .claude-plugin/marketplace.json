@@ -1,0 +1,6 @@
+{
+  "name": "prompt-oni-coach",
+  "description": "prompt-oni-coach を配るマーケットプレイス",
+  "owner": { "name": "AndoYuto87" },
+  "plugins": [{ "name": "prompt-oni-coach", "source": "./prompt-oni-coach" }]
+}

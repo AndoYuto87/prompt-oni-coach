@@ -1,0 +1,1 @@
+{ "name": "prompt-oni-coach", "version": "0.1.1", "description": "発言のたびに Claude の使い方の癖を Haiku が関西弁で指摘し、齟齬が起きそうなら止めて書き直させる", "author": { "name": "AndoYuto87" }, "license": "MIT" }
